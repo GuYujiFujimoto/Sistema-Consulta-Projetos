@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Login - Consulta de Projetos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <h1>Login - Plataforma Vivo</h1>
+    <div id="login">
+      <input type="email" id="email" placeholder="E-mail" /><br><br>
+      <input type="password" id="senha" placeholder="Senha" /><br><br>
+      <button onclick="login()">Entrar</button>
+      <p id="mensagem"></p>
+    </div>
+
+    <div id="consulta" style="display:none;">
+      <h2>Consulta de Projetos</h2>
+      <input type="text" id="busca" placeholder="Digite um ID, nome ou palavra-chave..." />
+      <button onclick="buscarProjetos()">Buscar</button>
+      <div id="resultados"></div>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
