@@ -20,7 +20,6 @@ Instalação:
      Acesse o diretório do projeto: cd Sistema-Consulta-Projetos
      Instale as dependências necessárias usando o npm: npm install
      Configurar Variáveis ​​de Ambiente: crie um arquivo .envna raiz do projeto e adicione as variáveis ​​possíveis.
-     Iniciar o Servidor
      Para iniciar o servidor, execute o seguinte comando: node server.js
 
 Uso
