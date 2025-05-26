@@ -25,7 +25,7 @@ Instalação:
 Uso
      
      Acesse o aplicativo no navegador.
-     Abra o navegador e acesse a URL onde o servidor está rodando:http://localhost:3000 
+     Abra o navegador e acesse a URL onde o servidor está rodando.
 
 Equipe   
     
