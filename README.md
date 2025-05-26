@@ -6,27 +6,27 @@ PROJETO INTEGRADOR: ANÁLISE DE SOLUÇÕES INTEGRADAS PARA ORGANIZAÇÕES
 
 Vídeo:
 
-Tecnologias
+Tecnologias:
 
      Frontend: JavaScript
      Backend: Node.js
      Banco de dados: PostgreSQL
 
-Clonar o repositório.
+Clonar o repositório:
 
-   Navegue até o diretório do projeto.
-   Instalar as dependências.
-   Configure como variáveis ​​de ambiente.
-   Iniciar Editor ou servidor.
+     Navegue até o diretório do projeto.
+     Instalar as dependências.
+     Configure como variáveis ​​de ambiente.
+     Iniciar Editor ou servidor.
 
 Uso
 
-   Acesse o aplicativo no navegador.
-   Utilize uma rota para obter a lista do projeto disponíveis.
+     Acesse o aplicativo no navegador.
+     Utilize uma rota para obter a lista do projeto disponíveis.
 
 Continuação 
 
-   Para mais informações, entre em contato com o autor do projeto.
+     Para mais informações, entre em contato com o autor do projeto.
 
 Equipe   
     
