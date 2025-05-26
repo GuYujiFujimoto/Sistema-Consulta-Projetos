@@ -8,9 +8,9 @@ Vídeo:
 
 Tecnologias
 
-   Frontend: JavaScript
-   Backend: Node.js
-   Banco de dados: PostgreSQL
+     Frontend: JavaScript
+     Backend: Node.js
+     Banco de dados: PostgreSQL
 
 Clonar o repositório.
 
