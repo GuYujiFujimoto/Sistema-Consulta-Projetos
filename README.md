@@ -25,12 +25,5 @@ Continuação
  Para mais informações, entre em contato com o autor do projeto.   
 
 
-ELVIO RIBEIRO
-FABIANA REBECHI
-JOÃO VICTOR KELSON
-LARISSA C. LEMES
-LUCAS C DOMINGUES
-PATRICK MAGALHÃES
-RHUAN DE O. RAMIRES
 
  
