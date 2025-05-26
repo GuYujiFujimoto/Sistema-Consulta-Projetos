@@ -12,21 +12,21 @@ Tecnologias:
      Backend: Node.js
      Banco de dados: PostgreSQL
 
-Clonar o repositório:
+Instalação:
 
-     Navegue até o diretório do projeto.
-     Instalar as dependências.
-     Configure como variáveis ​​de ambiente.
-     Iniciar Editor ou servidor.
+     Abra o terminal ou prompt de comando.
+     Navegue até o diretório onde deseja clonar o repositório.
+     Execute o seguinte comando: git clone https://github.com/GuYujiFujimoto/Sistema-Consulta-Projetos.git
+     Acesse o diretório do projeto: cd Sistema-Consulta-Projetos
+     Instale as dependências necessárias usando o npm: npm install
+     Configurar Variáveis ​​de Ambiente: crie um arquivo .envna raiz do projeto e adicione as variáveis ​​possíveis.
+     Iniciar o Servidor
+     Para iniciar o servidor, execute o seguinte comando: node server.js
 
 Uso
-
+     
      Acesse o aplicativo no navegador.
-     Utilize uma rota para obter a lista do projeto disponíveis.
-
-Continuação 
-
-     Para mais informações, entre em contato com o autor do projeto.
+     Abra o navegador e acesse a URL onde o servidor está rodando:http://localhost:3000 
 
 Equipe   
     
@@ -34,7 +34,6 @@ Equipe
     JOÃO VICTOR KELSON
     ELLEN CAMARGO CATTANEO
     ADILVANIO BARBOSA RODRIGUES
-
 
 
  
