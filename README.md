@@ -24,6 +24,13 @@ Uso
 Continuação 
  Para mais informações, entre em contato com o autor do projeto.   
 
+Equipe   
+    
+    GUSTAVO YUJI DE ALMEIDA
+    JOÃO VICTOR KELSON
+    ELLEN CAMARGO CATTANEO
+    ADILVANIO BARBOSA RODRIGUES
+
 
 
  
