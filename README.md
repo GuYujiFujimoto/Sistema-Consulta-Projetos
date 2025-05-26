@@ -22,7 +22,7 @@ Uso
  Utilize uma rota para obter a lista do projeto disponíveis.
 
 Continuação 
- Para mais informações, entre em contato com o autor do projeto.   
+ Para mais informações, entre em contato com o autor do projeto.
 
 Equipe   
     
