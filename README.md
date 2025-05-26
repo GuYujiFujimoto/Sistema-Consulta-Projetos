@@ -4,7 +4,7 @@ Sistema de Consulta de Projetos
 
 PROJETO INTEGRADOR: ANÁLISE DE SOLUÇÕES INTEGRADAS PARA ORGANIZAÇÕES
 
-Vídeo:
+Vídeo: https://drive.google.com/file/d/1KtFYh4BfTsYFYFhdb-ayb9keuF8NN0xC/view?usp=sharing
 
 Tecnologias:
 
